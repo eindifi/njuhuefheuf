@@ -1,2 +1,2 @@
 
-  location.href = "/redi.html";
+  location.href = "https://cutt.ly/eUCAleA";
