@@ -1,2 +1,2 @@
 
-  location.href = "www.123download.gq/redi.html";
+  location.href = "/redi.html";
